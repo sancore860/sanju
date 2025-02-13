@@ -1,0 +1,78 @@
+.main {
+    
+     background-image:url("Section2.png");
+    
+}
+    
+h2 {
+  color: orange;
+  text-align: center;
+  font-size: 1200;
+}
+h1 {
+     color:black;
+     text-align: center;
+     font-weight: bold;
+     font-size: 1400;
+}
+.maintwo {
+     background-image:url("Section2.png");
+     text-align:center;
+}
+#p {
+     color: orange;
+}
+.mainthree {
+     background-image:url("Section2.png");
+}
+ .xe {
+     display: flex;
+ }
+ .xee {
+  background-image: url("rectangle-13.svg");
+     padding: 10 px;
+     padding-left: 50 px;
+     padding-right:50 px ;
+ }
+ .xen {
+    background-image: url("rectangle-14.svg");
+     padding-left: 10 px;
+     padding-right:10 px ;
+     background: linear-gradient();
+
+ }
+ .ten{
+background-image: url("rectangle-15.svg");
+ padding: 10 px;
+ padding-left: 10 px;
+ padding-right:10 px ;
+ border-spacing:10 px;
+}
+.te {
+    background-image:url("rectangle-16.svg") ;
+     padding: 10 px;
+     padding-left: 10 px;
+     padding-right:10 px ;
+}
+.mainfour {
+     background-image:url("Section2.png");
+}
+.token {
+     color: white;
+
+}
+.san {
+     display: flex;
+}
+.mainfive {
+     background-image:url("Section2.png");
+}
+.fen {
+background-image: url("pinkbg.png");
+}
+.sanju {
+display: flex;
+}
+.mainsix {
+     background-image:url("Section2.png")
+}
